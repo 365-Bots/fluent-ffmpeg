@@ -27,6 +27,7 @@
     "async": "^0.2.9",
     "which": "^1.1.1"
   },
+  "types": "./types/index.d.ts",
   "engines": {
     "node": ">=18"
   },
