@@ -1,5 +1,5 @@
 {
-  "name": "@365bots/fluent-ffmpeg",
+  "name": "@365music/fluent-ffmpeg",
   "version": "2.1.3",
   "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
   "keywords": [
