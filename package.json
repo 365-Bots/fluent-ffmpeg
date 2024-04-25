@@ -1,6 +1,6 @@
 {
   "name": "@365music/fluent-ffmpeg",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
   "keywords": [
     "ffmpeg"
@@ -27,7 +27,6 @@
     "async": "^0.2.9",
     "which": "^1.1.1"
   },
-  "types": "./types/index.d.ts",
   "engines": {
     "node": ">=18"
   },

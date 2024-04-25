@@ -9,8 +9,9 @@
         "allowJs": true,
         "emitDeclarationOnly": true,
         "declaration": true,
-        "outDir": "types",
+        "outDir": "./",
         "declarationMap": true,
     },
     "include": ["lib/**/*", "./index.js"],
+    "exclude": ["node_modules"]
 }
