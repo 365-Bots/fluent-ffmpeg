@@ -1,3 +1,3 @@
-declare const _exports: typeof import("./lib/fluent-ffmpeg");
-export = _exports;
+import { FfmpegCommand } from "./lib/fluent-ffmpeg";
+export { FfmpegCommand };
 //# sourceMappingURL=index.d.ts.map

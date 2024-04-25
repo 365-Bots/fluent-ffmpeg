@@ -1,1 +1,5 @@
-module.exports = require('./lib/fluent-ffmpeg');
+const { FfmpegCommand } = require('./lib/fluent-ffmpeg');
+
+module.exports = {
+    FfmpegCommand: FfmpegCommand
+}
